@@ -24,12 +24,12 @@ An application that allows you to purchase tickets
 
 | Pet Store ERD |
 | ------------- |
-| ![Pet Store ERD](img/petstoreerd.png)  |
+| ![Pet Store ERD](/img/petstoreerd.png)  |
 
 
 | App Main Page |  Animated GIF  |  Generated Price   |
 | ------------- | ------------- | ------------------ |
-| ![Main Page](img/lasttry1.png)  | ![Animated GIF](https://media.giphy.com/media/sG2WLSHpUzM5jTD6Op/giphy.gif) | ![Generated Price](img/lasttryimage.png) |
+| ![Main Page](/Users/laurenmariegrassano/repos/lis4381/a3/img/lasttry1.png)  | ![Animated GIF](https://media.giphy.com/media/sG2WLSHpUzM5jTD6Op/giphy.gif) | ![Generated Price](img/lasttryimage.png) |
 
 
 
